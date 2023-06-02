@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JosefinSans';
+    src: url('Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+}
+
+
+html {
+    font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: JosefinSans;
+}
+
